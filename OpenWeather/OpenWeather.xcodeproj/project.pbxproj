@@ -43,6 +43,7 @@
 		6DCD1B022BAACC3100BAAF11 /* ReactorKitModule */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = ReactorKitModule; path = ../ReactorKitModule; sourceTree = "<group>"; };
 		6DCD1B042BAACC5200BAAF11 /* CombineModule */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = CombineModule; path = ../CombineModule; sourceTree = "<group>"; };
 		6DCD1B132BABC93500BAAF11 /* Network */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = Network; path = ../Network; sourceTree = "<group>"; };
+		ECCF5CBF2BAD51620021C88A /* RxSwiftModule */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = RxSwiftModule; path = ../RxSwiftModule; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +65,7 @@
 		6DCD1AE02BAAC2BC00BAAF11 = {
 			isa = PBXGroup;
 			children = (
+				ECCF5CBF2BAD51620021C88A /* RxSwiftModule */,
 				6DCD1B132BABC93500BAAF11 /* Network */,
 				6DCD1B042BAACC5200BAAF11 /* CombineModule */,
 				6DCD1B022BAACC3100BAAF11 /* ReactorKitModule */,
